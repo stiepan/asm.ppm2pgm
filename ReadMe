@@ -1,0 +1,1 @@
+Program można wywołać z jednym parametrem nazwą pliku w formacie P3 lub z trzema nazwą pliku w formacie P3 i wagami dla czerwonego i zielonego. Wartość dla koloru niebieskiego jest wyliczana automatycznie tak żeby wagi sumowały się do 256.
